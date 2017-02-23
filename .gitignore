@@ -234,7 +234,7 @@ _Pvt_Extensions
 # LightSwitch generated files
 GeneratedArtifacts/
 ModelManifest.xml
-
+*Config.cs
 # Paket dependency manager
 .paket/paket.exe
 
